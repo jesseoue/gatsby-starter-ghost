@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://jesseouellette.ghost.io",
-    "contentApiKey": "b8a02fcec6186c8d6efb8b9900"
+    "contentApiKey": "2ecc2cb1e3c2e25286696d341c"
   },
   "production": {
     "apiUrl": "https://jesseouellette.ghost.io",
-    "contentApiKey": "b8a02fcec6186c8d6efb8b9900"
+    "contentApiKey": "2ecc2cb1e3c2e25286696d341c"
   }
 }
