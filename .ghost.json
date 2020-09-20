@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://jesseouellette.ghost.io",
-    "contentApiKey": "2ecc2cb1e3c2e25286696d341c"
+    "apiUrl": "https://revenueadvisory.herokuapp.com",
+    "contentApiKey": "5c143a637939595874a0bd98bd"
   },
   "production": {
-    "apiUrl": "https://jesseouellette.ghost.io",
-    "contentApiKey": "2ecc2cb1e3c2e25286696d341c"
+    "apiUrl": "https://revenueadvisory.herokuapp.com",
+    "contentApiKey": "5c143a637939595874a0bd98bd"
   }
 }
