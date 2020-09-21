@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://revenueadvisory.herokuapp.com",
-    "contentApiKey": "6eea892104fd3875c9665ee184"
+    "contentApiKey": "72ffad0b03023cb647294b61d6"
   },
   "production": {
     "apiUrl": "https://revenueadvisory.herokuapp.com",
-    "contentApiKey": "6eea892104fd3875c9665ee184"
+    "contentApiKey": "72ffad0b03023cb647294b61d6"
   }
 }
